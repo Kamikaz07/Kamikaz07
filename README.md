@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/header.png" alt="banner" width="100%">
+  <img src="./banner.jpg" alt="banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Rodrigo 👋</h1>
