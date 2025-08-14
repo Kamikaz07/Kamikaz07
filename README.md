@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Rodrigo 👋</h1>
 <p align="center">
-  AI student · Web & Mobile Developer · E-commerce · ML/DS
+  AI student · Web & Mobile Developer · E-commerce · dApp · ML/DS
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 🚀 About me
 - I love building **end-to-end systems**: from backend and data to the UI.
-- Strong interest in **e-commerce** (MedusaJS/Sanity) and **chatbots** (real projects).
+- Strong interest in **Solana dApps** (Legacy) and **chatbots** (Chat-DTP).
 - In ML I focus on **clustering**, **SOMs**, **reinforcement learning**, and Python/Jupyter pipelines.
 - Currently learning **Rust** and going deeper into **infra & automation**.
 
@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="38" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="38" />
+  <img src="https://cdn.simpleicons.org/rust" alt="Rust" width="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="38" />
@@ -44,8 +44,9 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="38" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="38" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind" width="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="SwiftUI" width="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="SwiftUI" width="38" />
 </p>
 
 ### Backend & CMS
@@ -88,8 +89,7 @@
 
 ## 🔥 Featured Projects
 - **Chat-DTP** — Custom chatbot for the Portuguese National Institute of Administration (INA).  
-  <sub>Stack:</sub> Python · NLP · Web  
-  ➜ https://github.com/Sphincz/Chat-DTP
+  <sub>Stack:</sub> Python · NLP · Web 
 
 - **Admin_Medusa / Store_Medusa / medusa-server** — full e-commerce stack (admin, store and backend).  
   <sub>Stack:</sub> Node.js · MedusaJS · React/Next · Sanity · PostgreSQL
@@ -100,10 +100,10 @@
 - **simple-proxy** — lightweight proxy for Cloudflare Workers.  
   <sub>Stack:</sub> JavaScript · Cloudflare
 
-- **KamiWatch / Kami-Watch-2** — multimedia apps (Swift/iOS).  
-  <sub>Stack:</sub> Swift · SwiftUI
+- **Legacy** — dApp on Solana to create and manage tokens on the blockchain.  
+  <sub>Stack:</sub> React · Express · Solana SDK
 
-> More repos: backend, backend_sanity, e-commerce-cms, EcomerceB_Sanity, Ecommerce-Basic, LocalWise, Kami-Movie, Kami-Movie-2, kami-movie-providers, ipoc_swift, legacy, ISCTE, find, gaeme and others.
+
 
 ---
 
@@ -124,7 +124,7 @@
 ## 🗺️ Now / Next
 - Going deeper into **Rust** and optimising **ML** pipelines.
 - Building reusable modules for **MedusaJS**.
-- Open to collaborating on **chatbots**, **e-commerce**, and **iOS apps** — ping me!
+- Open to collaborating on **chatbots**, **e-commerce**, **iOS/Android apps**, and also dApps — ping me!
 
 ## 📬 Contact
 - **LinkedIn:** https://www.linkedin.com/in/rodrigo-fonseca/
