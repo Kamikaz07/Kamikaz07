@@ -1,6 +1,6 @@
 <!-- Cabeçalho -->
 <p align="center">
-  <img src="assets/header.png" alt="banner" width="100%">
+  <img src="./header.png" alt="banner" width="100%">
 </p>
 
 <h1 align="center">Bem-vindo ao meu GitHub</h1>
