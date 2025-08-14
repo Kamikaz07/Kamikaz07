@@ -123,7 +123,6 @@
 
 ## 🗺️ Now / Next
 - Going deeper into **Rust** and optimising **ML** pipelines.
-- Building reusable modules for **MedusaJS**.
 - Open to collaborating on **chatbots**, **e-commerce**, **iOS/Android apps**, and also dApps — ping me!
 
 ## 📬 Contact
