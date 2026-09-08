@@ -8,6 +8,8 @@
   AI student · Web & Mobile Developer · E-commerce · dApp · ML/DS
 </p>
 
+<a href="https://github.com/sponsors/Kamikaz07"><img src="https://img.shields.io/badge/Sponsor-Kamikaz07-ea4aaa?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor Kamikaz07"></a>
+
 <p align="center">
   <a href="https://github.com/Kamikaz07/followers"><img src="https://img.shields.io/github/followers/Kamikaz07?label=Followers&style=for-the-badge" alt="followers"></a>
   <img src="https://komarev.com/ghpvc/?username=Kamikaz07&style=for-the-badge&label=Profile%20views" alt="views">
@@ -124,5 +126,3 @@
 ## 🗺️ Now / Next
 - Going deeper into **Rust** and optimising **ML** pipelines.
 - Open to collaborating on **chatbots**, **e-commerce**, **iOS/Android apps**, and also dApps — ping me!
-
-<a href="https://github.com/sponsors/Kamikaz07"><img src="https://img.shields.io/badge/Sponsor-Kamikaz07-ea4aaa?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor Kamikaz07"></a>
