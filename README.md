@@ -8,7 +8,9 @@
   AI student · Web & Mobile Developer · E-commerce · dApp · ML/DS
 </p>
 
-<a href="https://github.com/sponsors/Kamikaz07"><img src="https://img.shields.io/badge/Sponsor-Kamikaz07-ea4aaa?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor Kamikaz07"></a>
+<p align="center">
+<a href="https://github.com/sponsors/Kamikaz07"><img src="https://img.shields.io/badge/Sponsor-Kamikaz07-ea4aaa?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor"></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Kamikaz07/followers"><img src="https://img.shields.io/github/followers/Kamikaz07?label=Followers&style=for-the-badge" alt="followers"></a>
