@@ -7,7 +7,7 @@
 <p align="center">
   AI student · Web & Mobile Developer · E-commerce · dApp · ML/DS
 </p>
-
+<iframe src="https://github.com/sponsors/Kamikaz07/card" title="Sponsor Kamikaz07" height="225" width="600" style="border: 0;"></iframe>
 <p align="center">
   <a href="https://github.com/Kamikaz07/followers"><img src="https://img.shields.io/github/followers/Kamikaz07?label=Followers&style=for-the-badge" alt="followers"></a>
   <img src="https://komarev.com/ghpvc/?username=Kamikaz07&style=for-the-badge&label=Profile%20views" alt="views">
