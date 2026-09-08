@@ -125,4 +125,4 @@
 - Going deeper into **Rust** and optimising **ML** pipelines.
 - Open to collaborating on **chatbots**, **e-commerce**, **iOS/Android apps**, and also dApps — ping me!
 
-<iframe src="https://github.com/sponsors/Kamikaz07/button" title="Sponsor Kamikaz07" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+<a href="https://github.com/sponsors/Kamikaz07"><img src="https://img.shields.io/badge/Sponsor-Kamikaz07-ea4aaa?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor Kamikaz07"></a>
